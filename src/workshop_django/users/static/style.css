@@ -1,0 +1,10 @@
+/*FUCK CSS*/
+
+.user {
+    display: inline-block;
+    background-color: darkgray;
+    border-radius: 1em;
+    width: fit-content;
+    text-align: center;
+    padding: .2em;
+}
